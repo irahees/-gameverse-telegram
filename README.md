@@ -1,16 +1,16 @@
 # GameVerse — Telegram Mini App + Offline PWA
 
-GameVerse is a mobile-first mini-game hub. It works as a Telegram Mini App and can also be installed from a supported browser as a standalone PWA.
+GameVerse is a mobile-first mini-game hub with 18 playable games and an endless Infinity Arcade. It works as a Telegram Mini App and can also be installed from a supported browser as a standalone PWA.
 
 ## Categories and included playable games
 
-- **Two players:** Tic-Tac-Toe, Connect Four, Reaction Duel, Tap Racer (local same-device play)
-- **Adventure:** Maze Quest, Snake Run
-- **Racing:** Tap Racer (solo and local two-player modes)
-- **Puzzle:** 2048, Memory Match, Maze Quest
-- **Anti-stress:** Bubble Pop (no timer or pressure), Color Flow
+- **Two players:** Tic-Tac-Toe, Connect Four, Reaction Duel, Rock Paper Scissors, Dots & Boxes, Tap Racer (local same-device play)
+- **Adventure:** Maze Quest, Snake Run, Treasure Hunt
+- **Racing:** Tap Racer (solo and local two-player modes), Target Rush
+- **Puzzle:** 2048, Memory Match, Maze Quest, Sliding Tiles, Lights Out
+- **Anti-stress:** Bubble Pop (no timer or pressure), Color Flow, Zen Orbit
 
-Games are local/offline experiences. The two-player games currently use the same device; online matchmaking and remote multiplayer are not included.
+**Infinity Arcade** creates endless rounds of randomized quick challenges. Maze layouts, treasure maps, puzzles and other rounds can be replayed with fresh variations. This provides endless replay, not infinitely many separately authored game titles.\n\nGames are local/offline experiences. The two-player games currently use the same device; online matchmaking and remote multiplayer are not included.
 
 ## Offline support
 
