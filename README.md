@@ -36,6 +36,6 @@ The existing Render Blueprint remains unchanged. Set \`BOT_TOKEN\` and \`APP_URL
 
 ## Current scope
 
-- Local browser games and local high scores/session state.
+- Local browser games; persistent high scores and cloud saves are not implemented yet.
 - No accounts, cloud saves, online rooms, matchmaking, or persistent global leaderboards yet.
 - The free Render plan may sleep when idle; the first online visit after sleep may take longer.
