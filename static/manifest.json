@@ -1,0 +1,19 @@
+{
+  "name": "GameVerse — Mini Games",
+  "short_name": "GameVerse",
+  "description": "Two-player games, adventures, racing, puzzles and relaxing mini-games.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101321",
+  "theme_color": "#101321",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
