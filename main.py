@@ -54,6 +54,14 @@ async def home():
     return FileResponse(STATIC_DIR / "index.html")
 
 
+@app.get("/sw.js")
+async def service_worker():
+    return FileResponse(
+        STATIC_DIR / "sw.js",
+        media_type="application/javascript",
+        headers={"Service-Worker-Allowed": "/"},
+    )
+
 @app.get("/health")
 async def health():
     return {"status": "ok", "app": "GameVerse", "bot_configured": bool(BOT_TOKEN)}
